@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://chenyan.live',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'Github项目', url: '/tag/Github' },
+  HEO_HERO_CATEGORY_1: { title: 'Github', url: '/tag/Github' },
   HEO_HERO_CATEGORY_2: { title: '精选资源', url: '/tag/资源' },
   HEO_HERO_CATEGORY_3: { title: '实用工具', url: '/tag/工具' },
 
