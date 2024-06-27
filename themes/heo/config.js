@@ -34,11 +34,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者'
+    '探索AI工具',
+    '分享实用小工具',
+    'GitHub项目精选',
+    '资源一手掌握'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://www.chenyan.live', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
