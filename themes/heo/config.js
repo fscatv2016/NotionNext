@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与资源分享',
   HEO_HERO_TITLE_3: 'chenyan.live',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '探索AI，分享实用小工具',
-  HEO_HERO_TITLE_LINK: 'https://chenyan.live',
+  HEO_HERO_TITLE_5: '在线水印添加 - 保护您的图片安全',
+  HEO_HERO_TITLE_LINK: 'https://watermark.chenyan.live/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Github', url: '/tag/Github' },
